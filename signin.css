@@ -1,0 +1,31 @@
+
+
+#facebook{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+}
+img{
+    height: 50px;
+}
+
+input{
+    margin: 5px;
+    
+
+}
+button{
+    width: 100px;
+    margin-top: 3px;
+    background-color: rgba(21, 32, 236, 0.937);
+    color: white;
+    font-size: large;
+    border: none;
+    
+}
+.error{
+    color: red;
+    font-size: 0.9;
+    background-color: aquamarine;
+}
